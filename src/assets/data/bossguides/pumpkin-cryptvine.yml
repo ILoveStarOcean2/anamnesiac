@@ -41,7 +41,7 @@
     Dark Night Party Mode is used when the timer runs down. Pumpkin Tree's enrage mode is just the usual AI that does hundreds of thousands of damage. but with a nasty surprise for long range. Thankfully, dodging Ectoplasm is as simple as moving in on the stupid thing. So keep dodging and dps it to victory!
     
   moves:
-    - name: Rush Pome Bomb (EN)
+    - name: Rush Pome Bomb
       targets: Mid
       m1: true
       m2: true
@@ -58,7 +58,7 @@
       desc: >
         Fires an array of blue wisp-like projectiles similar to Soul Release. These will lazily home in on the target while spreading out and do high damage. They are more easily avoided in melee range.
         
-    - name: Banana Split (EN)
+    - name: Banana Split
       targets: Any
       m1: true
       m2: true
@@ -66,7 +66,7 @@
       desc: >
         Will toss a bombs that explode in a parallel line formation across the stage starting at mid-range.
         
-    - name: Poltergeist (EN)
+    - name: Poltergeist
       targets: Any
       m1: true
       m2: true
